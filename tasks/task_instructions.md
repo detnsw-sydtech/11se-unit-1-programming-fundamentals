@@ -50,4 +50,9 @@ Display the result clearly and professionally.
 
 ## Example Interaction
 
+Welcome to the Interactive Calculator!
+Enter first number: 12
+Enter second number: 5
+Choose operation (+, -, *, /): *
+Result: 12 * 5 = 60
 
